@@ -2,6 +2,8 @@
 
 Research data for "Formation of the H3CS-Au-SCH3 complex on Au(111): a molecular dynamics study" manuscript by Andrey L. Klavsyuk; Alexey G. Syromyatnikov; Ivan Y. Yakhin; Alexander M. Saletsky
 
+https://doi.org/10.1016/j.commatsci.2025.114434
+
 ## Files description
 
 * `AuSCH_2013.ff` This file contains the force field parameters for the ReaxFF potential used in the calculations, sourced from ([Bae et al. (2013)](https://doi.org/10.1021/jp405992m))
